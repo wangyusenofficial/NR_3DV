@@ -1,0 +1,16 @@
+LICENSE
+README.md
+setup.py
+3dvnet.egg-info/PKG-INFO
+3dvnet.egg-info/SOURCES.txt
+3dvnet.egg-info/dependency_links.txt
+3dvnet.egg-info/top_level.txt
+mv3d/__init__.py
+mv3d/config.py
+mv3d/eval-3dvnet.py
+mv3d/finetune.py
+mv3d/lightningmodel.py
+mv3d/lightningplugins.py
+mv3d/loss.py
+mv3d/train.py
+mv3d/utils.py
